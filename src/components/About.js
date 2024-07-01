@@ -4,7 +4,7 @@ export default function About() {
 		<section
 			id="about"
 			className="px-10 w-full flex flex-col lg:flex-row py-20 
-					align-center bg-emerald-200 max-w-5xl mx-auto">
+					align-center bg-gradient-to-r from-sky-400 to-indigo-200 max-w-5xl mx-auto">
 			<div className="flex-1">
 				<img src=
 "https://media.geeksforgeeks.org/img-practice/Asset1-1641910145.svg"
@@ -14,7 +14,7 @@ export default function About() {
 			<div className="flex-1 flex flex-col justify-center
 							items-center gap-5 px-6">
 				<div>
-					<h2 className="text-center text-emerald-500 
+					<h2 className="text-center text-blue-500 
 								text-5xl font-bold">
 						About Me :
 					</h2>
