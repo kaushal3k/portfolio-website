@@ -6,26 +6,25 @@ export default function Contact() {
 			<h2 className="text-5xl font-bold text-blue-500 text-center">
 				Contact me
 			</h2>
-			<div className="flex gap-5 justify-center 
-						my-10">
+			<div className="flex gap-5 justify-center my-10">
+
 				<a rel="noreferrer"
 				target="_blank"
 				className="text-center hover:underline"
-				href=
-"https://instagram.com/geeks_for_geeks">
-					Instagram:
+				href="https://linkedin.com/in/kaushal4k">
+					Linkdein:
 					<span className="font-bold">
-						@geeks_for_geeks
+						@Kaushal
 					</span>
 				</a>
+
 				<a rel="noreferrer"
 				target="_blank"
 				className="text-center hover:underline"
-				href=
-"https://twitter.com/geeksforgeeks">
+				href="https://twitter.com/geeksforgeeks">
 					Twitter:
 					<span className="font-bold">
-						@geeksforgeeks
+						@Kaushal3k
 					</span>
 				</a>
 			</div>

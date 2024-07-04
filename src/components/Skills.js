@@ -1,6 +1,6 @@
 // Skills.js
 export default function Skills() {
-	const skills = ["Python", "HTML", "CSS", "Javascript", "React", "NextJs"];
+	const skills = [ "HTML","Python", "CSS", "Javascript", "React","Tailwind.css", "JQuery","Bootstrap","MySql","Node.js","Express.js","Git", "Github"];
 	return (
 		<section id="skills"
 			className="px-10 w-full my-40 max-w-5xl mx-auto">
@@ -8,7 +8,7 @@ export default function Skills() {
 				My Skills...
 			</h2>
 			<div className="mt-10 flex gap-5 justify-center 
-							flex-wrap mx-auto max-w-xl">
+							flex-wrap mx-auto max-w-xxxl">
 				{skills.map((skill, index) => {
 					return (
 						<div key={index}
