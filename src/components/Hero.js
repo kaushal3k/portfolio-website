@@ -19,10 +19,10 @@ export default function Hero() {
 			I am your friendly neighbourhood osm developer...
 		</p>
 		</div>
-		<div className="flex-1">
+		<div className="flex-1 ">
 		<img src= "https://as2.ftcdn.net/v2/jpg/02/77/63/39/1000_F_277633961_rzaIV1Dk2yDdXFGkO8cL91SRjRpgueUb.jpg"
 			alt="Hello.svg"
-			className="w-3/4 h-3/4 bg-cover"/>
+			className="w-3/4 h-3/4 bg-cover ml-10"/>
 		</div>
 	</section>
 	);
